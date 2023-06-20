@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Supplement_Automation", "Supplement_Automation\Supplement_Automation.vcxproj", "{0087DAAE-39E3-4616-86B3-7C2C8603F57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Debug|x64.ActiveCfg = Debug|x64
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Debug|x64.Build.0 = Debug|x64
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Debug|x86.Build.0 = Debug|Win32
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Release|x64.ActiveCfg = Release|x64
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Release|x64.Build.0 = Release|x64
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Release|x86.ActiveCfg = Release|Win32
+		{0087DAAE-39E3-4616-86B3-7C2C8603F57C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FB6B83-3A8F-49C7-9979-75570F0C3478}
+	EndGlobalSection
+EndGlobal
